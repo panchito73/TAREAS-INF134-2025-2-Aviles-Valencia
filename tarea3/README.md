@@ -16,7 +16,7 @@ g++(Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0
 g++(Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0  
 GNU Make 4.3  
 
-El programa se puede compilar y utilizar en la terminal utilizando el comando "make", con make run para ejecutar el codigo y make clean para el borrado.
+El programa se puede compilar y utilizar en la terminal utilizando el comando "make", con "make run" para ejecutar el codigo y make clean para el borrado.
 ## Bibliotecas 
 
 ## Funcionalidades  
