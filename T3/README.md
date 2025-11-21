@@ -2,7 +2,7 @@
 Tarea realizada por: 
 
 Camilo Avilés 202473128-9   
-Francisco Valencia (TU ROL)
+Francisco Valencia 202473037-1
 
 # Caracteristicas Tecnicas  
 #### Sistema Operativo
