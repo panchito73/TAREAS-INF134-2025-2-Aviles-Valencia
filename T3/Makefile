@@ -1,9 +1,9 @@
 .PHONY: all run clean
 
-all: tarea2
+all: tarea3
 
 tarea3: main.cpp
-	g++ main.cpp -o tarea3 -Wall
+	g++ main.cpp -o tarea3
 
 run: tarea3
 	./tarea3       
